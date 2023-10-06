@@ -1,0 +1,208 @@
+<config>
+    <Title name="Globe" abbreviation="GL">
+        <Edition name="E1"/>
+        <Edition name="E2"/>
+        <Edition name="MS"/>
+        <Edition name="DS"/>
+        <Edition name="PD"/>
+        <Edition name="BS"/>
+        <Edition name="AO"/>
+        <Edition name="SD"/>
+        <Edition name="S2"/>
+        <Edition name="DD"/>
+        <Edition name="MD"/>
+        <Edition name="D2"/>
+        <Edition name="W1"/>
+        <Edition name="S1"/>
+        <Edition name="WP"/>
+        <Edition name="S1"/>
+        <Edition name="P1"/>
+    </Title>
+    <Publication name="The Times" abbreviation="TT">
+        <Edition name="TC"/>
+        <Edition name="TT"/>
+        <Edition name="S2"/>
+        <Edition name="NY"/>
+    </Publication>
+    <Publication name="Algoa" abbreviation="AL">
+        <Edition name="M1"/>
+        <Edition name="M2"/>
+        <Edition name="OT"/>
+        <Edition name="S1"/>
+        <Edition name="N1"/>
+    </Publication>
+    <Publication name="Indabazethu" abbreviation="IN">
+        <Edition name="I1"/>
+    </Publication>
+    <Publication name="Images"/>
+    <Publication name="SA HomeOwner" abbreviation="SH">
+        <Edition name="S1"/>
+    </Publication>
+    <Publication name="Avusa Media Supplements" abbreviation="AM">
+        <Edition name="MM"/>
+        <Edition name="MI"/>
+        <Edition name="IL"/>
+        <Edition name="EM"/>
+        <Edition name="S1"/>
+        <Edition name="S2"/>
+    </Publication>
+    <Publication name="AvocadoAFR" abbreviation="AA">
+        <Edition name="A1"/>
+    </Publication>
+    <Publication name="AvocadoENG" abbreviation="AE">
+        <Edition name="A1"/>
+    </Publication>
+    <Publication name="Stuff" abbreviation="ST">
+        <Edition name="ST"/>
+    </Publication>
+    <Publication name="Elle" abbreviation="EL">
+        <Edition name="EL"/>
+    </Publication>
+    <Publication name="ElleDeco" abbreviation="ED">
+        <Edition name="ED"/>
+    </Publication>
+    <Publication name="To_Delete_" abbreviation="TD_"/>
+    <Publication name="Sunday World" abbreviation="SW">
+        <Edition name="S1"/>
+        <Edition name="S2"/>
+        <Edition name="S2"/>
+        <Edition name="S1"/>
+    </Publication>
+    <Publication name="BIGnews" abbreviation="BN">
+        <Edition name="BN"/>
+    </Publication>
+    <Publication name="promo" abbreviation="PR">
+        <Edition name="S1"/>
+        <Edition name="M1"/>
+        <Edition name="PM"/>
+    </Publication>
+    <Publication name="System" abbreviation="SY"/>
+    <Publication name="<no publication<" abbreviation="NP"/>
+    <Title name="SD" abbreviation="SD">
+        <Edition name="E1"/>
+        <Edition name="E2"/>
+        <Edition name="W1"/>
+        <Edition name="M1"/>
+        <Edition name="P1"/>
+        <Edition name="W1"/>
+    </Title>
+    <Title name="HR" abbreviation="HR">
+        <Edition name="E1"/>
+        <Edition name="E2"/>
+        <Edition name="E3"/>
+        <Edition name="M1"/>
+        <Edition name="R1"/>
+        <Edition name="BS"/>
+        <Edition name="IM"/>
+        <Edition name="W1"/>
+        <Edition name="LF"/>
+        <Edition name="T1"/>
+        <Edition name="T1"/>
+        <Edition name="S1"/>
+        <Edition name="M3"/>
+        <Edition name="T1"/>
+        <Edition name="W1"/>
+        <Edition name="S2"/>
+        <Edition name="TG"/>
+        <Edition name="S1"/>
+        <Edition name="B1"/>
+        <Edition name="P1"/>
+        <Edition name="E1"/>
+        <Edition name="M1"/>
+        <Edition name="IM"/>
+        <Edition name="S1"/>
+        <Edition name="M1"/>
+        <Edition name="S1"/>
+        <Edition name="N1"/>
+    </Title>
+    <Title name="WP" abbreviation="WP">
+        <Edition name="E1"/>
+        <Edition name="E2"/>
+        <Edition name="E3"/>
+        <Edition name="E4"/>
+        <Edition name="N1"/>
+        <Edition name="W1"/>
+        <Edition name="M4"/>
+        <Edition name="M2"/>
+        <Edition name="A1"/>
+        <Edition name="P1"/>
+        <Edition name="S1"/>
+        <Edition name="S1"/>
+        <Edition name="S1"/>
+        <Edition name="M3"/>
+        <Edition name="S2"/>
+        <Edition name="M1"/>
+        <Edition name="L1"/>
+        <Edition name="B1"/>
+        <Edition name="N1"/>
+    </Title>
+    <Title name="CN" abbreviation="CN">
+        <Edition name="E1"/>
+        <Edition name="AS"/>
+        <Edition name="TR"/>
+        <Edition name="OT"/>
+        <Edition name="GE"/>
+        <Edition name="A4"/>
+        <Edition name="IL"/>
+        <Edition name="S1"/>
+        <Edition name="T2"/>
+        <Edition name="TT"/>
+        <Edition name="S2"/>
+        <Edition name="G2"/>
+    </Title>
+    <Title name="SO" abbreviation="SO">
+        <Edition name="E1"/>
+        <Edition name="E2"/>
+        <Edition name="E5"/>
+        <Edition name="E3"/>
+        <Edition name="E4"/>
+        <Edition name="E6"/>
+        <Edition name="E7"/>
+        <Edition name="S2"/>
+        <Edition name="MR"/>
+        <Edition name="M2"/>
+        <Edition name="M5"/>
+        <Edition name="CE"/>
+        <Edition name="SW"/>
+        <Edition name="TO"/>
+        <Edition name="M7"/>
+        <Edition name="M3"/>
+        <Edition name="S2"/>
+        <Edition name="S1"/>
+        <Edition name="S3"/>
+        <Edition name="M6"/>
+        <Edition name="SM"/>
+    </Title>
+    <Title name="BT" abbreviation="BT">
+        <Edition name="E1"/>
+        <Edition name="E2"/>
+    </Title>
+    <Title name="LS" abbreviation="LS">
+        <Edition name="E1"/>
+    </Title>
+    <Title name="OS" abbreviation="OS">
+        <Edition name="E1"/>
+    </Title>
+    <Title name="NB" abbreviation="NB"/>
+    <Title name="FM" abbreviation="FM">
+        <Edition name="E1"/>
+        <Edition name="IM"/>
+        <Edition name="FS"/>
+        <Edition name="AF"/>
+        <Edition name="IM"/>
+        <Edition name="LB"/>
+        <Edition name="CA"/>
+        <Edition name="IN"/>
+        <Edition name="TC"/>
+        <Edition name="SD"/>
+        <Edition name="PH"/>
+        <Edition name="SS"/>
+        <Edition name="PO"/>
+        <Edition name="S1"/>
+        <Edition name="CA"/>
+        <Edition name="TR"/>
+        <Edition name="FM"/>
+        <Edition name="FC"/>
+        <Edition name="BU"/>
+    </Title>
+</config>
