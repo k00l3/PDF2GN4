@@ -1,208 +1,214 @@
 <config>
     <Title name="Globe" abbreviation="GL">
-        <Edition name="E1"/>
-        <Edition name="E2"/>
-        <Edition name="MS"/>
-        <Edition name="DS"/>
-        <Edition name="PD"/>
-        <Edition name="BS"/>
-        <Edition name="AO"/>
-        <Edition name="SD"/>
-        <Edition name="S2"/>
-        <Edition name="DD"/>
-        <Edition name="MD"/>
-        <Edition name="D2"/>
-        <Edition name="W1"/>
-        <Edition name="S1"/>
-        <Edition name="WP"/>
-        <Edition name="S1"/>
-        <Edition name="P1"/>
+        <Edition name="E1" abbreviation="E1"/>
+        <Edition name="E2" abbreviation="E2"/>
+        <Edition name="MANDELA SUPP (01)" abbreviation="MS"/>
+        <Edition name="Dispatch Sport (01)" abbreviation="DS"/>
+        <Edition name="Property Dispatch (01)" abbreviation="PD"/>
+        <Edition name="Budget Supplement (01)" abbreviation="BS"/>
+        <Edition name="01S105/03/15 AFRICA OPEN (01)" abbreviation="AO"/>
+        <Edition name="saturday dispatch (02)" abbreviation="SD"/>
+        <Edition name="Supplement (02)" abbreviation="S2"/>
+        <Edition name="Daily Dispatch (01)" abbreviation="DD"/>
+        <Edition name="Mdantsane Dispatch (01)" abbreviation="MD"/>
+        <Edition name="Daily Dispatch (02)" abbreviation="D2"/>
+        <Edition name="Wrap (01)" abbreviation="W1"/>
+        <Edition name="saturday dispatch (01)" abbreviation="S1"/>
+        <Edition name="Weekend Property (01)" abbreviation="WP"/>
+        <Edition name="Supplement (01)" abbreviation="S1"/>
+        <Edition name="Posters (01)" abbreviation="P1"/>
     </Title>
     <Publication name="The Times" abbreviation="TT">
-        <Edition name="TC"/>
-        <Edition name="TT"/>
-        <Edition name="S2"/>
-        <Edition name="NY"/>
+        <Edition name="times cape (01)" abbreviation="TC"/>
+        <Edition name="The Times (01)" abbreviation="TT"/>
+        <Edition name="Surveys (02)" abbreviation="S2"/>
+        <Edition name="New York Times (01)" abbreviation="NY"/>
     </Publication>
     <Publication name="Algoa" abbreviation="AL">
-        <Edition name="M1"/>
-        <Edition name="M2"/>
-        <Edition name="OT"/>
-        <Edition name="S1"/>
-        <Edition name="N1"/>
+        <Edition name="Mainbody (01)" abbreviation="M1"/>
+        <Edition name="Mainbody (02)" abbreviation="M2"/>
+        <Edition name="Our Times (01)" abbreviation="OT"/>
+        <Edition name="Surveys (01)" abbreviation="S1"/>
+        <Edition name="None" abbreviation="N1"/>
     </Publication>
     <Publication name="Indabazethu" abbreviation="IN">
-        <Edition name="I1"/>
+        <Edition name="Indabazethu (01)" abbreviation="I1"/>
     </Publication>
     <Publication name="Images"/>
     <Publication name="SA HomeOwner" abbreviation="SH">
-        <Edition name="S1"/>
+        <Edition name="SA HomeOwner (01)" abbreviation="S1"/>
     </Publication>
     <Publication name="Avusa Media Supplements" abbreviation="AM">
-        <Edition name="MM"/>
-        <Edition name="MI"/>
-        <Edition name="IL"/>
-        <Edition name="EM"/>
-        <Edition name="S1"/>
-        <Edition name="S2"/>
+        <Edition name="Motor Mania (01)" abbreviation="MM"/>
+        <Edition name="Mindset (01)" abbreviation="MI"/>
+        <Edition name="Ignition Live (01)" abbreviation="IL"/>
+        <Edition name="ExpressMain (01)" abbreviation="EM"/>
+        <Edition name="Surveys (01)" abbreviation="S1"/>
+        <Edition name="Surveys (02)" abbreviation="S2"/>
     </Publication>
     <Publication name="AvocadoAFR" abbreviation="AA">
-        <Edition name="A1"/>
+        <Edition name="AvocadoAFR (01)" abbreviation="A1"/>
     </Publication>
     <Publication name="AvocadoENG" abbreviation="AE">
-        <Edition name="A1"/>
+        <Edition name="AvocadoENG (01)" abbreviation="A1"/>
     </Publication>
     <Publication name="Stuff" abbreviation="ST">
-        <Edition name="ST"/>
+        <Edition name="Stuff (01)" abbreviation="ST"/>
     </Publication>
     <Publication name="Elle" abbreviation="EL">
-        <Edition name="EL"/>
+        <Edition name="Elle (01)" abbreviation="EL"/>
     </Publication>
     <Publication name="ElleDeco" abbreviation="ED">
-        <Edition name="ED"/>
+        <Edition name="ElleDeco (01)" abbreviation="ED"/>
     </Publication>
     <Publication name="To_Delete_" abbreviation="TD_"/>
     <Publication name="Sunday World" abbreviation="SW">
-        <Edition name="S1"/>
-        <Edition name="S2"/>
-        <Edition name="S2"/>
-        <Edition name="S1"/>
+        <Edition name="Sunday World (01)" abbreviation="S1"/>
+        <Edition name="Surveys (01)" abbreviation="S2"/>
+        <Edition name="Sunday World (02)" abbreviation="S2"/>
+        <Edition name="Sowetan (01)" abbreviation="S1"/>
     </Publication>
     <Publication name="BIGnews" abbreviation="BN">
-        <Edition name="BN"/>
+        <Edition name="Big News (01)" abbreviation="BN"/>
     </Publication>
     <Publication name="promo" abbreviation="PR">
-        <Edition name="S1"/>
-        <Edition name="M1"/>
-        <Edition name="PM"/>
+        <Edition name="Surveys (01)" abbreviation="S1"/>
+        <Edition name="Mainbody (01)" abbreviation="M1"/>
+        <Edition name="prECMakes2710 (01)" abbreviation="PM"/>
     </Publication>
     <Publication name="System" abbreviation="SY"/>
     <Publication name="<no publication<" abbreviation="NP"/>
     <Title name="SD" abbreviation="SD">
-        <Edition name="E1"/>
-        <Edition name="E2"/>
-        <Edition name="W1"/>
-        <Edition name="M1"/>
-        <Edition name="P1"/>
-        <Edition name="W1"/>
+        <Edition name="E1" abbreviation="E1"/>
+        <Edition name="E2" abbreviation="E2"/>
+        <Edition name="Wrap (01)" abbreviation="W1"/>
+        <Edition name="Mainbody (01)" abbreviation="M1"/>
+        <Edition name="Posters (01)" abbreviation="P1"/>
+        <Edition name="Weekender (01)" abbreviation="W1"/>
     </Title>
     <Title name="HR" abbreviation="HR">
-        <Edition name="E1"/>
-        <Edition name="E2"/>
-        <Edition name="E3"/>
-        <Edition name="M1"/>
-        <Edition name="R1"/>
-        <Edition name="BS"/>
-        <Edition name="IM"/>
-        <Edition name="W1"/>
-        <Edition name="LF"/>
-        <Edition name="T1"/>
-        <Edition name="T1"/>
-        <Edition name="S1"/>
-        <Edition name="M3"/>
-        <Edition name="T1"/>
-        <Edition name="W1"/>
-        <Edition name="S2"/>
-        <Edition name="TG"/>
-        <Edition name="S1"/>
-        <Edition name="B1"/>
-        <Edition name="P1"/>
-        <Edition name="E1"/>
-        <Edition name="M1"/>
-        <Edition name="IM"/>
-        <Edition name="S1"/>
-        <Edition name="M1"/>
-        <Edition name="S1"/>
-        <Edition name="N1"/>
+        <Edition name="E1" abbreviation="E1"/>
+        <Edition name="E2" abbreviation="E2"/>
+        <Edition name="E3" abbreviation="E3"/>
+        <Edition name="Mainbody (01)" abbreviation="M1"/>
+        <Edition name="Racing (01)" abbreviation="R1"/>
+        <Edition name="01bg2402 BUDGET SUPP (01)" abbreviation="BS"/>
+        <Edition name="01sup1203 IRON MAN (01)" abbreviation="IM"/>
+        <Edition name="01wwe0703 (01)" abbreviation="W1"/>
+        <Edition name="LaFemme (01)" abbreviation="LF"/>
+        <Edition name="01ten1604 (01)" abbreviation="T1"/>
+        <Edition name="01tens2704 tens 2003 (01)" abbreviation="T1"/>
+        <Edition name="01sup2303 Splash (01)" abbreviation="S1"/>
+        <Edition name="Mainbody (03)" abbreviation="M3"/>
+        <Edition name="01ten1704 1995 (01)" abbreviation="T1"/>
+        <Edition name="Wrap (01)" abbreviation="W1"/>
+        <Edition name="Surveys (02)" abbreviation="S2"/>
+        <Edition name="TGIF (01)" abbreviation="TG"/>
+        <Edition name="Surveys (01)" abbreviation="S1"/>
+        <Edition name="01bee2510 (01)" abbreviation="B1"/>
+        <Edition name="POSTERS (01)" abbreviation="P1"/>
+        <Edition name="EP Herald 1847" abbreviation="E1"/>
+        <Edition name="Matricsupplment (01)" abbreviation="M1"/>
+        <Edition name="Mainbody (02)" abbreviation="M2"/>
+        <Edition name="Motoring (01)" abbreviation="M1"/>
+        <Edition name="pr011703 Iron Man (01)" abbreviation="IM"/>
+        <Edition name="01Matric2912 Matric Results (01)" abbreviation="M1"/>
+        <Edition name="Shibobo (01)" abbreviation="S1"/>
+        <Edition name="None" abbreviation="N1"/>
     </Title>
     <Title name="WP" abbreviation="WP">
-        <Edition name="E1"/>
-        <Edition name="E2"/>
-        <Edition name="E3"/>
-        <Edition name="E4"/>
-        <Edition name="N1"/>
-        <Edition name="W1"/>
-        <Edition name="M4"/>
-        <Edition name="M2"/>
-        <Edition name="A1"/>
-        <Edition name="P1"/>
-        <Edition name="S1"/>
-        <Edition name="S1"/>
-        <Edition name="S1"/>
-        <Edition name="M3"/>
-        <Edition name="S2"/>
-        <Edition name="M1"/>
-        <Edition name="L1"/>
-        <Edition name="B1"/>
-        <Edition name="N1"/>
+        <Edition name="E1" abbreviation="E1"/>
+        <Edition name="E2" abbreviation="E2"/>
+        <Edition name="E3" abbreviation="E3"/>
+        <Edition name="E4" abbreviation="E4"/>
+        <Edition name="Neighbourhood (01)" abbreviation="N1"/>
+        <Edition name="Wrap (01)" abbreviation="W1"/>
+        <Edition name="Mainbody (04)" abbreviation="M4"/>
+        <Edition name="Mainbody (02)" abbreviation="M2"/>
+        <Edition name="Auto Body (01)" abbreviation="A1"/>
+        <Edition name="Property (01)" abbreviation="P1"/>
+        <Edition name="Posters (01)" abbreviation="P1"/>
+        <Edition name="SwitchOn (01)" abbreviation="S1"/>
+        <Edition name="Surveys (01)" abbreviation="S1"/>
+        <Edition name="Shibobo (01)" abbreviation="S1"/>
+        <Edition name="Mainbody (03)" abbreviation="M3"/>
+        <Edition name="Shibobo (02)" abbreviation="S2"/>
+        <Edition name="Mainbody (01)" abbreviation="M1"/>
+        <Edition name="Leisure (01)" abbreviation="L1"/>
+        <Edition name="Business (01)" abbreviation="B1"/>
+        <Edition name="None" abbreviation="N1"/>
     </Title>
     <Title name="CN" abbreviation="CN">
-        <Edition name="E1"/>
-        <Edition name="AS"/>
-        <Edition name="TR"/>
-        <Edition name="OT"/>
-        <Edition name="GE"/>
-        <Edition name="A4"/>
-        <Edition name="IL"/>
-        <Edition name="S1"/>
-        <Edition name="T2"/>
-        <Edition name="TT"/>
-        <Edition name="S2"/>
-        <Edition name="G2"/>
+        <Edition name="E1" abbreviation="E1"/>
+        <Edition name="Algoa Sun (01)" abbreviation="AS"/>
+        <Edition name="the representative (01)" abbreviation="TR"/>
+        <Edition name="our times (01)" abbreviation="OT"/>
+        <Edition name="Go!&Express (01)" abbreviation="GE"/>
+        <Edition name="Algoa Sun (04)" abbreviation="A4"/>
+        <Edition name="ilizwe (01)" abbreviation="IL"/>
+        <Edition name="Surveys (01)" abbreviation="S1"/>
+        <Edition name="the representative (02)" abbreviation="T2"/>
+        <Edition name="talktown (01)" abbreviation="TT"/>
+        <Edition name="Algoa Sun (02)" abbreviation="A2"/>
+        <Edition name="themercury (01)" abbreviation="TM"/>
+        <Edition name="Surveys (02)" abbreviation="S2"/>
+        <Edition name="Go!&Express (02)" abbreviation="G2"/>
     </Title>
     <Title name="SO" abbreviation="SO">
-        <Edition name="E1"/>
-        <Edition name="E2"/>
-        <Edition name="E5"/>
-        <Edition name="E3"/>
-        <Edition name="E4"/>
-        <Edition name="E6"/>
-        <Edition name="E7"/>
-        <Edition name="S2"/>
-        <Edition name="MR"/>
-        <Edition name="M2"/>
-        <Edition name="M5"/>
-        <Edition name="CE"/>
-        <Edition name="SW"/>
-        <Edition name="TO"/>
-        <Edition name="M7"/>
-        <Edition name="M3"/>
-        <Edition name="S2"/>
-        <Edition name="S1"/>
-        <Edition name="S3"/>
-        <Edition name="M6"/>
-        <Edition name="SM"/>
+        <Edition name="E1" abbreviation="E1"/>
+        <Edition name="E2" abbreviation="E2"/>
+        <Edition name="E5" abbreviation="E5"/>
+        <Edition name="E3" abbreviation="E3"/>
+        <Edition name="E4" abbreviation="E4"/>
+        <Edition name="E6" abbreviation="E6"/>
+        <Edition name="E7" abbreviation="E7"/>
+        <Edition name="Sunday World (02)" abbreviation="S2"/>
+        <Edition name="Matric Results (01)" abbreviation="MR"/>
+        <Edition name="Matric Results (02)" abbreviation="M2"/>
+        <Edition name="Matric Results (05)" abbreviation="M5"/>
+        <Edition name="CSI Edition (01)" abbreviation="CE"/>
+        <Edition name="Sowetan (01)" abbreviation="SW"/>
+        <Edition name="Timeout (01)" abbreviation="TO"/>
+        <Edition name="Matric Results (07)" abbreviation="M7"/>
+        <Edition name="Matric Results (03)" abbreviation="M3"/>
+        <Edition name="Sowetan (02)" abbreviation="S2"/>
+        <Edition name="Matric Results (04)" abbreviation="M4"/>
+        <Edition name="Surveys (02)" abbreviation="S2"/>
+        <Edition name="Surveys (01)" abbreviation="S1"/>
+        <Edition name="Sowetan (03)" abbreviation="S3"/>
+        <Edition name="Matric Results (06)" abbreviation="M6"/>
+        <Edition name="SMag (01)" abbreviation="SM"/>
     </Title>
     <Title name="BT" abbreviation="BT">
-        <Edition name="E1"/>
-        <Edition name="E2"/>
+        <Edition name="E1" abbreviation="E1"/>
+        <Edition name="E2" abbreviation="E2"/>
     </Title>
     <Title name="LS" abbreviation="LS">
-        <Edition name="E1"/>
+        <Edition name="E1" abbreviation="E1"/>
     </Title>
     <Title name="OS" abbreviation="OS">
-        <Edition name="E1"/>
+        <Edition name="E1" abbreviation="E1"/>
     </Title>
     <Title name="NB" abbreviation="NB"/>
     <Title name="FM" abbreviation="FM">
-        <Edition name="E1"/>
-        <Edition name="IM"/>
-        <Edition name="FS"/>
-        <Edition name="AF"/>
-        <Edition name="IM"/>
-        <Edition name="LB"/>
-        <Edition name="CA"/>
-        <Edition name="IN"/>
-        <Edition name="TC"/>
-        <Edition name="SD"/>
-        <Edition name="PH"/>
-        <Edition name="SS"/>
-        <Edition name="PO"/>
-        <Edition name="S1"/>
-        <Edition name="CA"/>
-        <Edition name="TR"/>
-        <Edition name="FM"/>
-        <Edition name="FC"/>
-        <Edition name="BU"/>
+        <Edition name="E1" abbreviation="E1"/>
+        <Edition name="Investors Monthly (01)" abbreviation="IM"/>
+        <Edition name="FM Stats (01)" abbreviation="FS"/>
+        <Edition name="AdFocus (01)" abbreviation="AF"/>
+        <Edition name="Investors Monthl (01)" abbreviation="IM"/>
+        <Edition name="The Little Black Book (01)" abbreviation="LB"/>
+        <Edition name="Campus (01)" abbreviation="CA"/>
+        <Edition name="Innovations (01)" abbreviation="IN"/>
+        <Edition name="Top Companies (01)" abbreviation="TC"/>
+        <Edition name="Surveys (default) (01)" abbreviation="SD"/>
+        <Edition name="Property Handbook (01)" abbreviation="PH"/>
+        <Edition name="Special Survey (01)" abbreviation="SS"/>
+        <Edition name="Posters (01)" abbreviation="PO"/>
+        <Edition name="Surveys (01)" abbreviation="S1"/>
+        <Edition name="CIO Africa (01)" abbreviation="CA"/>
+        <Edition name="Travel (01)" abbreviation="TR"/>
+        <Edition name="Financial Mail (01)" abbreviation="FM"/>
+        <Edition name="Future Company (01)" abbreviation="FC"/>
+        <Edition name="Budget (01)" abbreviation="BU"/>
     </Title>
 </config>
