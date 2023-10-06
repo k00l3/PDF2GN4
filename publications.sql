@@ -22,16 +22,16 @@ USE `publications`;
 -- Dumping structure for table publications.editions
 CREATE TABLE IF NOT EXISTS `editions` (
   `ID` int(11) NOT NULL AUTO_INCREMENT,
-  `TitleOrPublicationID` int(11) NOT NULL,
+  `RefID` int(11) NOT NULL,
   `Name` varchar(255) NOT NULL,
   `Abbreviation` varchar(10) NOT NULL,
   PRIMARY KEY (`ID`),
-  KEY `TitleOrPublicationID` (`TitleOrPublicationID`),
-  CONSTRAINT `editions_ibfk_1` FOREIGN KEY (`TitleOrPublicationID`) REFERENCES `titlesandpublications` (`ID`)
+  KEY `RefID` (`RefID`),
+  CONSTRAINT `editions_ibfk_1` FOREIGN KEY (`RefID`) REFERENCES `titles` (`ID`)
 ) ENGINE=InnoDB AUTO_INCREMENT=132 DEFAULT CHARSET=utf8mb4;
 
 -- Dumping data for table publications.editions: ~131 rows (approximately)
-REPLACE INTO `editions` (`ID`, `TitleOrPublicationID`, `Name`, `Abbreviation`) VALUES
+REPLACE INTO `editions` (`ID`, `RefID`, `Name`, `Abbreviation`) VALUES
 	(1, 1, 'E1', 'E1'),
 	(2, 1, 'E2', 'E2'),
 	(3, 1, 'MANDELA SUPP (01)', 'MS'),
@@ -164,8 +164,8 @@ REPLACE INTO `editions` (`ID`, `TitleOrPublicationID`, `Name`, `Abbreviation`) V
 	(130, 10, 'Future Company (01)', 'FC'),
 	(131, 10, 'Budget (01)', 'BU');
 
--- Dumping structure for table publications.titlesandpublications
-CREATE TABLE IF NOT EXISTS `titlesandpublications` (
+-- Dumping structure for table publications.titles
+CREATE TABLE IF NOT EXISTS `titles` (
   `ID` int(11) NOT NULL AUTO_INCREMENT,
   `Name` varchar(255) NOT NULL,
   `Abbreviation` varchar(10) NOT NULL,
@@ -173,8 +173,8 @@ CREATE TABLE IF NOT EXISTS `titlesandpublications` (
   PRIMARY KEY (`ID`)
 ) ENGINE=InnoDB AUTO_INCREMENT=29 DEFAULT CHARSET=utf8mb4;
 
--- Dumping data for table publications.titlesandpublications: ~28 rows (approximately)
-REPLACE INTO `titlesandpublications` (`ID`, `Name`, `Abbreviation`, `Type`) VALUES
+-- Dumping data for table publications.titles: ~28 rows (approximately)
+REPLACE INTO `titles` (`ID`, `Name`, `Abbreviation`, `Type`) VALUES
 	(1, 'Globe', 'GL', 'Title'),
 	(2, 'SD', 'SD', 'Title'),
 	(3, 'HR', 'HR', 'Title'),
