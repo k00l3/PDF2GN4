@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<Edition name="-" ID="obj1725" refID="obj1721"/>
+	<Edition name="01" ID="obj272556" refID="obj271866"/>
+	<Edition name="02" ID="obj272557" refID="obj271866"/>
+	<Edition name="01" ID="obj314305" refID="obj312104"/>
+	<Edition name="02" ID="obj314306" refID="obj312104"/>
+	<Edition name="03" ID="obj314307" refID="obj312104"/>
+	<Edition name="04" ID="obj314308" refID="obj312104"/>
+	<Edition name="-" ID="obj314309" refID="obj312104"/>
+	<Edition name="Earth" ID="obj1437120" refID="obj312104"/>
+	<Edition name="Management Review (01)" ID="obj1437121" refID="obj312104"/>
+	<Edition name="Real Business (02)" ID="obj1437122" refID="obj312104"/>
+	<Edition name="Wanted (01)" ID="obj1437123" refID="obj312104"/>
+	<Edition name="The Golfer (01)" ID="obj1437124" refID="obj312104"/>
+	<Edition name="Surveys (04)" ID="obj1437125" refID="obj312104"/>
+	<Edition name="Business Day (03)" ID="obj1437126" refID="obj312104"/>
+	<Edition name="Investors Monthly (01)" ID="obj1437127" refID="obj312104"/>
+	<Edition name="Surveys (01)" ID="obj1437128" refID="obj312104"/>
+	<Edition name="Motor News (01)" ID="obj1437129" refID="obj312104"/>
+	<Edition name="Law Review (01)" ID="obj1437130" refID="obj312104"/>
+	<Edition name="Home Front (02)" ID="obj1437131" refID="obj312104"/>
+	<Edition name="Health News (01)" ID="obj1437132" refID="obj312104"/>
+	<Edition name="Budget (01)" ID="obj1437133" refID="obj312104"/>
+	<Edition name="Weekend Surveys (01)" ID="obj1437134" refID="obj312104"/>
+	<Edition name="Sport Monthly" ID="obj1437135" refID="obj312104"/>
+	<Edition name="Business Day (02)" ID="obj1437136" refID="obj312104"/>
+	<Edition name="Weekend Review (01)" ID="obj1437137" refID="obj312104"/>
+	<Edition name="Real Business (01)" ID="obj1437138" refID="obj312104"/>
+	<Edition name="The Exporter (01)" ID="obj1437139" refID="obj312104"/>
+	<Edition name="Business Day Africa (01)" ID="obj1437140" refID="obj312104"/>
+	<Edition name="Surveys (02)" ID="obj1437141" refID="obj312104"/>
+	<Edition name="Business Day (01)" ID="obj1437142" refID="obj312104"/>
+	<Edition name="10yearson (02)" ID="obj1437143" refID="obj312104"/>
+	<Edition name="010312art (01)" ID="obj1437144" refID="obj312104"/>
+	<Edition name="The Weekender (01)" ID="obj1437145" refID="obj312104"/>
+	<Edition name="Empowerment" ID="obj1437146" refID="obj312104"/>
+	<Edition name="Airline (01)" ID="obj1437147" refID="obj312104"/>
+	<Edition name="Home Front (01)" ID="obj1437148" refID="obj312104"/>
+	<Edition name="Motor News (02)" ID="obj1437149" refID="obj312104"/>
+	<Edition name="Posters (01)" ID="obj1437150" refID="obj312104"/>
+	<Edition name="Art Supplement (01)" ID="obj1437151" refID="obj312104"/>
+	<Edition name="Business Day Africa (02)" ID="obj1437152" refID="obj312104"/>
+	<Edition name="Airline (02)" ID="obj1437153" refID="obj312104"/>
+	<Edition name="Appointments (01)" ID="obj1437154" refID="obj312104"/>
+	<Edition name="Weekend Travel (01)" ID="obj1437155" refID="obj312104"/>
+	<Edition name="The Tourist (01)" ID="obj1437156" refID="obj312104"/>
+	<Edition name="Weekend Business (01)" ID="obj1437157" refID="obj312104"/>
+	<Edition name="MIET1 (01)" ID="obj1437158" refID="obj1426988"/>
+	<Edition name="Mainbody (01)" ID="obj1437159" refID="obj1426988"/>
+	<Edition name="Mainbody (01)" ID="obj1437160" refID="obj1426989"/>
+	<Edition name="Mainbody (02)" ID="obj1437161" refID="obj1426989"/>
+	<Edition name="Our Times (01)" ID="obj1437162" refID="obj1426989"/>
+	<Edition name="Indabazethu (01)" ID="obj1437163" refID="obj1426990"/>
+	<Edition name="times cape (01)" ID="obj1437164" refID="obj1426992"/>
+	<Edition name="The Times (01)" ID="obj1437165" refID="obj1426992"/>
+	<Edition name="Surveys (02)" ID="obj1437166" refID="obj1426992"/>
+	<Edition name="New York Times (01)" ID="obj1437167" refID="obj1426992"/>
+	<Edition name="Surveys (01)" ID="obj1437168" refID="obj1426992"/>
+	<Edition name="The Times (02)" ID="obj1437169" refID="obj1426992"/>
+	<Edition name="MainBody (01)" ID="obj1437170" refID="obj1426992"/>
+	<Edition name="Careers (01)" ID="obj1437171" refID="obj1426992"/>
+	<Edition name="Posters (01)" ID="obj1437172" refID="obj1426992"/>
+	<Edition name="SA HomeOwner (01)" ID="obj1437173" refID="obj1426993"/>
+	<Edition name="Motor Mania (01)" ID="obj1437174" refID="obj1426994"/>
+	<Edition name="Mindset (01)" ID="obj1437175" refID="obj1426994"/>
+	<Edition name="Ignition Live (01)" ID="obj1437176" refID="obj1426994"/>
+	<Edition name="ExpressMain (01)" ID="obj1437177" refID="obj1426994"/>
+	<Edition name="Surveys (01)" ID="obj1437178" refID="obj1426994"/>
+	<Edition name="Surveys (02)" ID="obj1437179" refID="obj1426994"/>
+	<Edition name="AvocadoAFR (01)" ID="obj1437180" refID="obj1426995"/>
+	<Edition name="AvocadoENG (01)" ID="obj1437181" refID="obj1426996"/>
+	<Edition name="Stuff (01)" ID="obj1437182" refID="obj1426997"/>
+	<Edition name="Elle (01)" ID="obj1437183" refID="obj1426998"/>
+	<Edition name="ElleDeco (01)" ID="obj1437184" refID="obj1426999"/>
+	<Edition name="01" ID="obj5173448" refID="obj5173368"/>
+	<Edition name="02" ID="obj5173449" refID="obj5173368"/>
+	<Edition name="01" ID="obj5189924" refID="obj5189802"/>
+	<Edition name="02" ID="obj5189925" refID="obj5189802"/>
+	<Edition name="03" ID="obj5189926" refID="obj5189802"/>
+	<Edition name="01" ID="obj5204550" refID="obj5204493"/>
+	<Edition name="02" ID="obj5204551" refID="obj5204493"/>
+	<Edition name="03" ID="obj5204552" refID="obj5204493"/>
+	<Edition name="04" ID="obj5204553" refID="obj5204493"/>
+	<Edition name="01" ID="obj5207051" refID="obj5207004"/>
+	<Edition name="01" ID="obj9507580" refID="obj9507537"/>
+	<Edition name="02" ID="obj9507581" refID="obj9507537"/>
+	<Edition name="05" ID="obj9507582" refID="obj9507537"/>
+	<Edition name="03" ID="obj9507583" refID="obj9507537"/>
+	<Edition name="04" ID="obj9507584" refID="obj9507537"/>
+	<Edition name="06" ID="obj9507585" refID="obj9507537"/>
+	<Edition name="07" ID="obj9507586" refID="obj9507537"/>
+	<Edition name="01" ID="obj15797590" refID="obj15797200"/>
+	<Edition name="02" ID="obj15797591" refID="obj15797200"/>
+	<Edition name="01" ID="obj15804562" refID="obj15804529"/>
+	<Edition name="01" ID="obj15951420" refID="obj2101872"/>
+	<Edition name="02" ID="obj15951421" refID="obj2101872"/>
+	<Edition name="03" ID="obj15951422" refID="obj2101872"/>
+	<Edition name="04" ID="obj15951423" refID="obj2101872"/>
+	<Edition name="01" ID="obj16954250" refID="obj16953339"/>
+	<Edition name="01" ID="obj18507282" refID="obj18507257"/>
+	<Edition name="Mainbody (01)" ID="obj20571986" refID="obj5189802"/>
+	<Edition name="Investors Monthly (01)" ID="obj20577485" refID="obj18507257"/>
+	<Edition name="FM Stats (01)" ID="obj20577486" refID="obj18507257"/>
+	<Edition name="AdFocus (01)" ID="obj20577487" refID="obj18507257"/>
+	<Edition name="Investors Monthl (01)" ID="obj20577488" refID="obj18507257"/>
+	<Edition name="The Little Black Book (01)" ID="obj20577489" refID="obj18507257"/>
+	<Edition name="Campus (01)" ID="obj20577490" refID="obj18507257"/>
+	<Edition name="Innovations (01)" ID="obj20577491" refID="obj18507257"/>
+	<Edition name="Top Companies (01)" ID="obj20577492" refID="obj18507257"/>
+	<Edition name="Surveys (default)" ID="obj20577493" refID="obj18507257"/>
+	<Edition name="Property Handbook (01)" ID="obj20577494" refID="obj18507257"/>
+	<Edition name="Special Survey (01)" ID="obj20577495" refID="obj18507257"/>
+	<Edition name="Posters (01)" ID="obj20577496" refID="obj18507257"/>
+	<Edition name="Surveys (01)" ID="obj20577497" refID="obj18507257"/>
+	<Edition name="CIO Africa (01)" ID="obj20577498" refID="obj18507257"/>
+	<Edition name="Travel (01)" ID="obj20577499" refID="obj18507257"/>
+	<Edition name="Financial Mail (01)" ID="obj20577500" refID="obj18507257"/>
+	<Edition name="Future Company (01)" ID="obj20577501" refID="obj18507257"/>
+	<Edition name="Budget (01)" ID="obj20577502" refID="obj18507257"/>
+	<Edition name="Africa Edition (01)" ID="obj20577503" refID="obj2101872"/>
+	<Edition name="Sport (01)" ID="obj20577504" refID="obj2101872"/>
+	<Edition name="Cape Metro (01)" ID="obj20577505" refID="obj2101872"/>
+	<Edition name="Sport (04)" ID="obj20577506" refID="obj2101872"/>
+	<Edition name="Motoring (01)" ID="obj20577507" refID="obj2101872"/>
+	<Edition name="Posters (01)" ID="obj20577508" refID="obj2101872"/>
+	<Edition name="New York Times (02)" ID="obj20577509" refID="obj2101872"/>
+	<Edition name="SoccerLife Tabloid (02)" ID="obj20577510" refID="obj2101872"/>
+	<Edition name="Review (02)" ID="obj20577511" refID="obj2101872"/>
+	<Edition name="Food Weekly (01)" ID="obj20577512" refID="obj2101872"/>
+	<Edition name="Lifestyle Express (01)" ID="obj20577513" refID="obj2101872"/>
+	<Edition name="Appointments (01)" ID="obj20577514" refID="obj2101872"/>
+	<Edition name="Activate (01)" ID="obj20577515" refID="obj2101872"/>
+	<Edition name="Brands (01)" ID="obj20577516" refID="obj2101872"/>
+	<Edition name="Its my Business (01)" ID="obj20577517" refID="obj2101872"/>
+	<Edition name="TV Magazine (01)" ID="obj20577518" refID="obj2101872"/>
+	<Edition name="Skills Development (01)" ID="obj20577519" refID="obj2101872"/>
+	<Edition name="Franchising (01)" ID="obj20577520" refID="obj2101872"/>
+	<Edition name="Loyalty Rewards" ID="obj20577521" refID="obj2101872"/>
+	<Edition name="EditMan (01)" ID="obj20577522" refID="obj2101872"/>
+	<Edition name="Scamto (01)" ID="obj20577523" refID="obj2101872"/>
+	<Edition name="Natal Metro (01)" ID="obj20577524" refID="obj2101872"/>
+	<Edition name="Read Right (01)" ID="obj20577525" refID="obj2101872"/>
+	<Edition name="Magazine (01)" ID="obj20577526" refID="obj2101872"/>
+	<Edition name="Mindset (01)" ID="obj20577527" refID="obj2101872"/>
+	<Edition name="01ds2906Education (01)" ID="obj20577528" refID="obj2101872"/>
+	<Edition name="Review (01)" ID="obj20577529" refID="obj2101872"/>
+	<Edition name="WorldCup (02)" ID="obj20577530" refID="obj2101872"/>
+	<Edition name="Zulu Edition (01)" ID="obj20577531" refID="obj2101872"/>
+	<Edition name="ExpressMain (02)" ID="obj20577532" refID="obj2101872"/>
+	<Edition name="Top Brands (01)" ID="obj20577533" refID="obj2101872"/>
+	<Edition name="top 100 companies (01)" ID="obj20577534" refID="obj2101872"/>
+	<Edition name="LifeStyle (01)" ID="obj20577535" refID="obj2101872"/>
+	<Edition name="Reef Metro (01)" ID="obj20577536" refID="obj2101872"/>
+	<Edition name="MainBody (01)" ID="obj20577537" refID="obj2101872"/>
+	<Edition name="MainBody (02)" ID="obj20577538" refID="obj2101872"/>
+	<Edition name="SoccerLife Tabloid (01)" ID="obj20577539" refID="obj2101872"/>
+	<Edition name="Special Edition (01)" ID="obj20577540" refID="obj2101872"/>
+	<Edition name="Retail Awards (01)" ID="obj20577541" refID="obj2101872"/>
+	<Edition name="LifeStyle (02)" ID="obj20577542" refID="obj2101872"/>
+	<Edition name="The Edit (02)" ID="obj20577543" refID="obj2101872"/>
+	<Edition name="Supply Chain Management (01)" ID="obj20577544" refID="obj2101872"/>
+	<Edition name="Green (01)" ID="obj20577545" refID="obj2101872"/>
+	<Edition name="Freight (01)" ID="obj20577546" refID="obj2101872"/>
+	<Edition name="Sport (03)" ID="obj20577547" refID="obj2101872"/>
+	<Edition name="Zimbabwe Edition (01)" ID="obj20577548" refID="obj2101872"/>
+	<Edition name="Healthy Times (01)" ID="obj20577549" refID="obj2101872"/>
+	<Edition name="Sport Magazine (01)" ID="obj20577550" refID="obj2101872"/>
+	<Edition name="Business Times (01)" ID="obj20577551" refID="obj2101872"/>
+	<Edition name="MainBody (03)" ID="obj20577552" refID="obj2101872"/>
+	<Edition name="Magazine (02)" ID="obj20577553" refID="obj2101872"/>
+	<Edition name="Play The Game" ID="obj20577554" refID="obj2101872"/>
+	<Edition name="Travel Weekly (01)" ID="obj20577555" refID="obj2101872"/>
+	<Edition name="Business Class (01)" ID="obj20577556" refID="obj2101872"/>
+	<Edition name="Fashion Weekly (01)" ID="obj20577557" refID="obj2101872"/>
+	<Edition name="Empowerment (01)" ID="obj20577558" refID="obj2101872"/>
+	<Edition name="Agriculture (01)" ID="obj20577559" refID="obj2101872"/>
+	<Edition name="SocialJustice (01)" ID="obj20577560" refID="obj2101872"/>
+	<Edition name="Surveys (01)" ID="obj20577561" refID="obj2101872"/>
+	<Edition name="MainBody (04)" ID="obj20577562" refID="obj2101872"/>
+	<Edition name="Sport (02)" ID="obj20577563" refID="obj2101872"/>
+	<Edition name="Property (01)" ID="obj20577564" refID="obj2101872"/>
+	<Edition name="Freedom (01)" ID="obj20577565" refID="obj2101872"/>
+	<Edition name="New York Times (01)" ID="obj20577566" refID="obj2101872"/>
+	<Edition name="WorldCup (01)" ID="obj20577567" refID="obj2101872"/>
+	<Edition name="Review (03)" ID="obj20577568" refID="obj2101872"/>
+	<Edition name="ExpressMain (01)" ID="obj20577569" refID="obj2101872"/>
+	<Edition name="ExpressBusiness (01)" ID="obj20577570" refID="obj2101872"/>
+	<Edition name="The Edit (01)" ID="obj20577571" refID="obj2101872"/>
+	<Edition name="KZN Life (01)" ID="obj20577572" refID="obj2101872"/>
+	<Edition name="Generation Next (01)" ID="obj20577573" refID="obj2101872"/>
+	<Edition name="Manufacturing (01)" ID="obj20577574" refID="obj2101872"/>
+	<Edition name="Skills (01)" ID="obj20577575" refID="obj2101872"/>
+	<Edition name="Travel Magazine (01)" ID="obj20577576" refID="obj2101872"/>
+	<Edition name="SoccerLife Magazine (01)" ID="obj20577577" refID="obj2101872"/>
+	<Edition name="SoccerLife Tabloid (03)" ID="obj20577578" refID="obj2101872"/>
+	<Edition name="Home Weekly (01)" ID="obj20577579" refID="obj2101872"/>
+	<Edition name="20 Years Of Democracy" ID="obj20577580" refID="obj2101872"/>
+	<Edition name="Spice Edition" ID="obj20577581" refID="obj2101872"/>
+	<Edition name="Infrastructure (01)" ID="obj20577582" refID="obj2101872"/>
+	<Edition name="CSI (01)" ID="obj20577583" refID="obj2101872"/>
+	<Edition name="Food Basket (01)" ID="obj20577584" refID="obj2101872"/>
+	<Edition name="MISA" ID="obj20577585" refID="obj2101872"/>
+	<Edition name="Safety (01)" ID="obj20577586" refID="obj312104"/>
+	<Edition name="Prime (01)" ID="obj20577587" refID="obj312104"/>
+	<Edition name="SASchools (01)" ID="obj20577588" refID="obj312104"/>
+	<Edition name="Women (01)" ID="obj20577589" refID="obj312104"/>
+	<Edition name="NWD (01)" ID="obj20577590" refID="obj312104"/>
+	<Edition name="Energy (01)" ID="obj20577592" refID="obj312104"/>
+	<Edition name="Racing (01)" ID="obj20577593" refID="obj5189802"/>
+	<Edition name="01bg2402 BUDGET SUPP (01)" ID="obj20577594" refID="obj5189802"/>
+	<Edition name="01sup1203 IRON MAN (01)" ID="obj20577595" refID="obj5189802"/>
+	<Edition name="01wwe0703 (01)" ID="obj20577596" refID="obj5189802"/>
+	<Edition name="LaFemme (01)" ID="obj20577597" refID="obj5189802"/>
+	<Edition name="01ten1604 (01)" ID="obj20577598" refID="obj5189802"/>
+	<Edition name="01tens2704 tens 2003 (01)" ID="obj20577599" refID="obj5189802"/>
+	<Edition name="01sup2303 Splash (01)" ID="obj20577600" refID="obj5189802"/>
+	<Edition name="Mainbody (03)" ID="obj20577601" refID="obj5189802"/>
+	<Edition name="01ten1704 1995 (01)" ID="obj20577602" refID="obj5189802"/>
+	<Edition name="Wrap (01)" ID="obj20577603" refID="obj5189802"/>
+	<Edition name="Surveys (02)" ID="obj20577604" refID="obj5189802"/>
+	<Edition name="TGIF (01)" ID="obj20577605" refID="obj5189802"/>
+	<Edition name="Surveys (01)" ID="obj20577606" refID="obj5189802"/>
+	<Edition name="01bee2510 (01)" ID="obj20577607" refID="obj5189802"/>
+	<Edition name="POSTERS (01)" ID="obj20577608" refID="obj5189802"/>
+	<Edition name="EP Herald 1847" ID="obj20577609" refID="obj5189802"/>
+	<Edition name="Matricsupplment (01)" ID="obj20577610" refID="obj5189802"/>
+	<Edition name="Mainbody (02)" ID="obj20577611" refID="obj5189802"/>
+	<Edition name="Motoring (01)" ID="obj20577612" refID="obj5189802"/>
+	<Edition name="pr011703 Iron Man (01)" ID="obj20577613" refID="obj5189802"/>
+	<Edition name="01Matric2912 Matric Results (01)" ID="obj20577614" refID="obj5189802"/>
+	<Edition name="Shibobo (01)" ID="obj20577615" refID="obj5189802"/>
+	<Edition name="Sunday World (01)" ID="obj20577616" refID="obj2101893"/>
+	<Edition name="Surveys (01)" ID="obj20577617" refID="obj2101893"/>
+	<Edition name="Sunday World (02)" ID="obj20577618" refID="obj2101893"/>
+	<Edition name="Sowetan (01)" ID="obj20577619" refID="obj2101893"/>
+	<Edition name="Algoa Sun (01)" ID="obj20577620" refID="obj5207004"/>
+	<Edition name="the representative (01)" ID="obj20577621" refID="obj5207004"/>
+	<Edition name="our times (01)" ID="obj20577622" refID="obj5207004"/>
+	<Edition name="Go!&Express (01)" ID="obj20577623" refID="obj5207004"/>
+	<Edition name="Algoa Sun (04)" ID="obj20577624" refID="obj5207004"/>
+	<Edition name="ilizwe (01)" ID="obj20577625" refID="obj5207004"/>
+	<Edition name="Surveys (01)" ID="obj20577626" refID="obj5207004"/>
+	<Edition name="the representative (02)" ID="obj20577627" refID="obj5207004"/>
+	<Edition name="talktown (01)" ID="obj20577628" refID="obj5207004"/>
+	<Edition name="Algoa Sun (02)" ID="obj20577629" refID="obj5207004"/>
+	<Edition name="themercury (01)" ID="obj20577630" refID="obj5207004"/>
+	<Edition name="Surveys (02)" ID="obj20577631" refID="obj5207004"/>
+	<Edition name="Go!&Express (02)" ID="obj20577632" refID="obj5207004"/>
+	<Edition name="Big News (01)" ID="obj20577633" refID="obj20550198"/>
+	<Edition name="Neighbourhood (01)" ID="obj20577680" refID="obj5204493"/>
+	<Edition name="Wrap (01)" ID="obj20577681" refID="obj5204493"/>
+	<Edition name="Mainbody (04)" ID="obj20577682" refID="obj5204493"/>
+	<Edition name="Mainbody (02)" ID="obj20577683" refID="obj5204493"/>
+	<Edition name="Auto Body (01)" ID="obj20577684" refID="obj5204493"/>
+	<Edition name="Property (01)" ID="obj20577685" refID="obj5204493"/>
+	<Edition name="Posters (01)" ID="obj20577686" refID="obj5204493"/>
+	<Edition name="SwitchOn (01)" ID="obj20577687" refID="obj5204493"/>
+	<Edition name="Surveys (01)" ID="obj20577688" refID="obj5204493"/>
+	<Edition name="Shibobo (01)" ID="obj20577689" refID="obj5204493"/>
+	<Edition name="Mainbody (03)" ID="obj20577690" refID="obj5204493"/>
+	<Edition name="Shibobo (02)" ID="obj20577691" refID="obj5204493"/>
+	<Edition name="Mainbody (01)" ID="obj20577692" refID="obj5204493"/>
+	<Edition name="Leisure (01)" ID="obj20577693" refID="obj5204493"/>
+	<Edition name="Business (01)" ID="obj20577694" refID="obj5204493"/>
+	<Edition name="MANDELA SUPP (01)" ID="obj20577718" refID="obj271866"/>
+	<Edition name="Dispatch Sport (01)" ID="obj20577719" refID="obj271866"/>
+	<Edition name="Property Dispatch (01)" ID="obj20577720" refID="obj271866"/>
+	<Edition name="Budget Supplement (01)" ID="obj20577721" refID="obj271866"/>
+	<Edition name="01S105/03/15 AFRICA OPEN (01)" ID="obj20577722" refID="obj271866"/>
+	<Edition name="saturday dispatch (02)" ID="obj20577723" refID="obj271866"/>
+	<Edition name="Supplement (02)" ID="obj20577724" refID="obj271866"/>
+	<Edition name="Daily Dispatch (01)" ID="obj20577725" refID="obj271866"/>
+	<Edition name="Mdantsane Dispatch (01)" ID="obj20577726" refID="obj271866"/>
+	<Edition name="Daily Dispatch (02)" ID="obj20577727" refID="obj271866"/>
+	<Edition name="Wrap (01)" ID="obj20577728" refID="obj271866"/>
+	<Edition name="saturday dispatch (01)" ID="obj20577729" refID="obj271866"/>
+	<Edition name="Weekend Property (01)" ID="obj20577730" refID="obj271866"/>
+	<Edition name="Supplement (01)" ID="obj20577731" refID="obj271866"/>
+	<Edition name="Posters (01)" ID="obj20577732" refID="obj271866"/>
+	<Edition name="Wrap (01)" ID="obj20577733" refID="obj5173368"/>
+	<Edition name="Mainbody (01)" ID="obj20577734" refID="obj5173368"/>
+	<Edition name="Posters (01)" ID="obj20577735" refID="obj5173368"/>
+	<Edition name="Weekender (01)" ID="obj20577736" refID="obj5173368"/>
+	<Edition name="Sunday World (02)" ID="obj20577741" refID="obj9507537"/>
+	<Edition name="Matric Results (01)" ID="obj20577742" refID="obj9507537"/>
+	<Edition name="Matric Results (02)" ID="obj20577743" refID="obj9507537"/>
+	<Edition name="Matric Results (05)" ID="obj20577744" refID="obj9507537"/>
+	<Edition name="CSI Edition (01)" ID="obj20577745" refID="obj9507537"/>
+	<Edition name="Sowetan (01)" ID="obj20577746" refID="obj9507537"/>
+	<Edition name="Timeout (01)" ID="obj20577747" refID="obj9507537"/>
+	<Edition name="Matric Results (07)" ID="obj20577748" refID="obj9507537"/>
+	<Edition name="Matric Results (03)" ID="obj20577749" refID="obj9507537"/>
+	<Edition name="Sowetan (02)" ID="obj20577750" refID="obj9507537"/>
+	<Edition name="Matric Results (04)" ID="obj20577751" refID="obj9507537"/>
+	<Edition name="Surveys (02)" ID="obj20577752" refID="obj9507537"/>
+	<Edition name="Surveys (01)" ID="obj20577753" refID="obj9507537"/>
+	<Edition name="Sowetan (03)" ID="obj20577754" refID="obj9507537"/>
+	<Edition name="Matric Results (06)" ID="obj20577755" refID="obj9507537"/>
+	<Edition name="SMag (01)" ID="obj20577756" refID="obj9507537"/>
+	<Edition name="Surveys (01)" ID="obj23390883" refID="obj1426989"/>
+	<Edition name="Surveys (01)" ID="obj23390887" refID="obj23380989"/>
+	<Edition name="None" ID="obj23391886" refID="obj5204493"/>
+	<Edition name="None" ID="obj23391889" refID="obj5189802"/>
+	<Edition name="Mainbody (01" ID="obj23391895" refID="obj312104"/>
+	<Edition name="Mainbody (01)" ID="obj23392067" refID="obj312104"/>
+	<Edition name="None" ID="obj23393708" refID="obj1426989"/>
+	<Edition name="None" ID="obj23393783" refID="obj2101872"/>
+	<Edition name="Mainbody (01)" ID="obj23429643" refID="obj23380989"/>
+	<Edition name="prECMakes2710 (01)" ID="obj23429647" refID="obj23380989"/>
+	<Edition name="Loyalty & Rewards" ID="obj30017305" refID="obj2101872"/>
+	<Edition name="Celebrating Women (01)" ID="obj30141133" refID="obj2101872"/>
+	<Edition name="WFD (01)" ID="obj30141326" refID="obj312104"/>
+	<Edition name="Commercial Property (01)" ID="obj30215170" refID="obj312104"/>
+	<Edition name="HumanRights (01)" ID="obj30215176" refID="obj312104"/>
+	<Edition name="SAMining (01)" ID="obj30215182" refID="obj312104"/>
+	<Edition name="HumanResources (01)" ID="obj30215334" refID="obj312104"/>
+</config>

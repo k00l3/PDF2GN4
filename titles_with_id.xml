@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<Publication name="Ilizwi" ID="obj1426988">
+		<Edition name="MIET1 (01)" />
+		<Edition name="Mainbody (01)" />
+	</Publication>
+	<Publication name="Algoa" ID="obj1426989">
+		<Edition name="Mainbody (01)" />
+		<Edition name="Mainbody (02)" />
+		<Edition name="Our Times (01)" />
+		<Edition name="Surveys (01)" />
+		<Edition name="None" />
+	</Publication>
+	<Publication name="Indabazethu" ID="obj1426990">
+		<Edition name="Indabazethu (01)" />
+	</Publication>
+	<Publication name="Images" ID="obj1426991"/>
+	<Publication name="The Times" ID="obj1426992">
+		<Edition name="times cape (01)" />
+		<Edition name="The Times (01)" />
+		<Edition name="Surveys (02)" />
+		<Edition name="New York Times (01)" />
+		<Edition name="Surveys (01)" />
+		<Edition name="The Times (02)" />
+		<Edition name="MainBody (01)" />
+		<Edition name="Careers (01)" />
+		<Edition name="Posters (01)" />
+	</Publication>
+	<Publication name="SA HomeOwner" ID="obj1426993">
+		<Edition name="SA HomeOwner (01)" />
+	</Publication>
+	<Publication name="Avusa Media Supplements" ID="obj1426994">
+		<Edition name="Motor Mania (01)" />
+		<Edition name="Mindset (01)" />
+		<Edition name="Ignition Live (01)" />
+		<Edition name="ExpressMain (01)" />
+		<Edition name="Surveys (01)" />
+		<Edition name="Surveys (02)" />
+	</Publication>
+	<Publication name="AvocadoAFR" ID="obj1426995">
+		<Edition name="AvocadoAFR (01)" />
+	</Publication>
+	<Publication name="AvocadoENG" ID="obj1426996">
+		<Edition name="AvocadoENG (01)" />
+	</Publication>
+	<Publication name="Stuff" ID="obj1426997">
+		<Edition name="Stuff (01)" />
+	</Publication>
+	<Publication name="Elle" ID="obj1426998">
+		<Edition name="Elle (01)" />
+	</Publication>
+	<Publication name="ElleDeco" ID="obj1426999">
+		<Edition name="ElleDeco (01)" />
+	</Publication>
+	<Publication name="To_Delete_" ID="obj1882483"/>
+	<Publication name="Sunday World" ID="obj2101893">
+		<Edition name="Sunday World (01)" />
+		<Edition name="Surveys (01)" />
+		<Edition name="Sunday World (02)" />
+		<Edition name="Sowetan (01)" />
+	</Publication>
+	<Publication name="BIGnews" ID="obj20550198">
+		<Edition name="Big News (01)" />
+	</Publication>
+	<Publication name="promo" ID="obj23380989">
+		<Edition name="Surveys (01)" />
+		<Edition name="Mainbody (01)" />
+		<Edition name="prECMakes2710 (01)" />
+	</Publication>
+	<Publication name="System" ID="obj23381202"/>
+	<Publication name="<no publication<" ID="obj24042327">
+					</Publication>
+					<Title name="Globe" ID="obj1721">
+						<Edition name="-" />
+					</Title>
+					<Title name="To_Delete" ID="obj19274"/>
+					<Title name="DD" ID="obj271866">
+						<Edition name="01" />
+						<Edition name="02" />
+						<Edition name="MANDELA SUPP (01)" />
+						<Edition name="Dispatch Sport (01)" />
+						<Edition name="Property Dispatch (01)" />
+						<Edition name="Budget Supplement (01)" />
+						<Edition name="01S105/03/15 AFRICA OPEN (01)" />
+						<Edition name="saturday dispatch (02)" />
+						<Edition name="Supplement (02)" />
+						<Edition name="Daily Dispatch (01)" />
+						<Edition name="Mdantsane Dispatch (01)" />
+						<Edition name="Daily Dispatch (02)" />
+						<Edition name="Wrap (01)" />
+						<Edition name="saturday dispatch (01)" />
+						<Edition name="Weekend Property (01)" />
+						<Edition name="Supplement (01)" />
+						<Edition name="Posters (01)" />
+					</Title>
+					<Title name="BD" ID="obj312104">
+						<Edition name="01" />
+						<Edition name="02" />
+						<Edition name="03" />
+						<Edition name="04" />
+						<Edition name="-" />
+						<Edition name="Earth" />
+						<Edition name="Management Review (01)" />
+						<Edition name="Real Business (02)" />
+						<Edition name="Wanted (01)" />
+						<Edition name="The Golfer (01)" />
+						<Edition name="Surveys (04)" />
+						<Edition name="Business Day (03)" />
+						<Edition name="Investors Monthly (01)" />
+						<Edition name="Surveys (01)" />
+						<Edition name="Motor News (01)" />
+						<Edition name="Law Review (01)" />
+						<Edition name="Home Front (02)" />
+						<Edition name="Health News (01)" />
+						<Edition name="Budget (01)" />
+						<Edition name="Weekend Surveys (01)" />
+						<Edition name="Sport Monthly" />
+						<Edition name="Business Day (02)" />
+						<Edition name="Weekend Review (01)" />
+						<Edition name="Real Business (01)" />
+						<Edition name="The Exporter (01)" />
+						<Edition name="Business Day Africa (01)" />
+						<Edition name="Surveys (02)" />
+						<Edition name="Business Day (01)" />
+						<Edition name="10yearson (02)" />
+						<Edition name="010312art (01)" />
+						<Edition name="The Weekender (01)" />
+						<Edition name="Empowerment" />
+						<Edition name="Airline (01)" />
+						<Edition name="Home Front (01)" />
+						<Edition name="Motor News (02)" />
+						<Edition name="Posters (01)" />
+						<Edition name="Art Supplement (01)" />
+						<Edition name="Business Day Africa (02)" />
+						<Edition name="Airline (02)" />
+						<Edition name="Appointments (01)" />
+						<Edition name="Weekend Travel (01)" />
+						<Edition name="The Tourist (01)" />
+						<Edition name="Weekend Business (01)" />
+						<Edition name="Safety (01)" />
+						<Edition name="Prime (01)" />
+						<Edition name="SASchools (01)" />
+						<Edition name="Women (01)" />
+						<Edition name="NWD (01)" />
+						<Edition name="Energy (01)" />
+						<Edition name="Mainbody (01" />
+						<Edition name="Mainbody (01)" />
+						<Edition name="WFD (01)" />
+						<Edition name="Commercial Property (01)" />
+						<Edition name="HumanRights (01)" />
+						<Edition name="SAMining (01)" />
+						<Edition name="HumanResources (01)" />
+					</Title>
+					<Title name="ST" ID="obj2101872">
+						<Edition name="01" />
+						<Edition name="02" />
+						<Edition name="03" />
+						<Edition name="04" />
+						<Edition name="Africa Edition (01)" />
+						<Edition name="Sport (01)" />
+						<Edition name="Cape Metro (01)" />
+						<Edition name="Sport (04)" />
+						<Edition name="Motoring (01)" />
+						<Edition name="Posters (01)" />
+						<Edition name="New York Times (02)" />
+						<Edition name="SoccerLife Tabloid (02)" />
+						<Edition name="Review (02)" />
+						<Edition name="Food Weekly (01)" />
+						<Edition name="Lifestyle Express (01)" />
+						<Edition name="Appointments (01)" />
+						<Edition name="Activate (01)" />
+						<Edition name="Brands (01)" />
+						<Edition name="Its my Business (01)" />
+						<Edition name="TV Magazine (01)" />
+						<Edition name="Skills Development (01)" />
+						<Edition name="Franchising (01)" />
+						<Edition name="Loyalty Rewards" />
+						<Edition name="EditMan (01)" />
+						<Edition name="Scamto (01)" />
+						<Edition name="Natal Metro (01)" />
+						<Edition name="Read Right (01)" />
+						<Edition name="Magazine (01)" />
+						<Edition name="Mindset (01)" />
+						<Edition name="01ds2906Education (01)" />
+						<Edition name="Review (01)" />
+						<Edition name="WorldCup (02)" />
+						<Edition name="Zulu Edition (01)" />
+						<Edition name="ExpressMain (02)" />
+						<Edition name="Top Brands (01)" />
+						<Edition name="top 100 companies (01)" />
+						<Edition name="LifeStyle (01)" />
+						<Edition name="Reef Metro (01)" />
+						<Edition name="MainBody (01)" />
+						<Edition name="MainBody (02)" />
+						<Edition name="SoccerLife Tabloid (01)" />
+						<Edition name="Special Edition (01)" />
+						<Edition name="Retail Awards (01)" />
+						<Edition name="LifeStyle (02)" />
+						<Edition name="The Edit (02)" />
+						<Edition name="Supply Chain Management (01)" />
+						<Edition name="Green (01)" />
+						<Edition name="Freight (01)" />
+						<Edition name="Sport (03)" />
+						<Edition name="Zimbabwe Edition (01)" />
+						<Edition name="Healthy Times (01)" />
+						<Edition name="Sport Magazine (01)" />
+						<Edition name="Business Times (01)" />
+						<Edition name="MainBody (03)" />
+						<Edition name="Magazine (02)" />
+						<Edition name="Play The Game" />
+						<Edition name="Travel Weekly (01)" />
+						<Edition name="Business Class (01)" />
+						<Edition name="Fashion Weekly (01)" />
+						<Edition name="Empowerment (01)" />
+						<Edition name="Agriculture (01)" />
+						<Edition name="SocialJustice (01)" />
+						<Edition name="Surveys (01)" />
+						<Edition name="MainBody (04)" />
+						<Edition name="Sport (02)" />
+						<Edition name="Property (01)" />
+						<Edition name="Freedom (01)" />
+						<Edition name="New York Times (01)" />
+						<Edition name="WorldCup (01)" />
+						<Edition name="Review (03)" />
+						<Edition name="ExpressMain (01)" />
+						<Edition name="ExpressBusiness (01)" />
+						<Edition name="The Edit (01)" />
+						<Edition name="KZN Life (01)" />
+						<Edition name="Generation Next (01)" />
+						<Edition name="Manufacturing (01)" />
+						<Edition name="Skills (01)" />
+						<Edition name="Travel Magazine (01)" />
+						<Edition name="SoccerLife Magazine (01)" />
+						<Edition name="SoccerLife Tabloid (03)" />
+						<Edition name="Home Weekly (01)" />
+						<Edition name="20 Years Of Democracy" />
+						<Edition name="Spice Edition" />
+						<Edition name="Infrastructure (01)" />
+						<Edition name="CSI (01)" />
+						<Edition name="Food Basket (01)" />
+						<Edition name="MISA" />
+						<Edition name="None" />
+						<Edition name="Loyalty & Rewards" />
+						<Edition name="Celebrating Women (01)" />
+					</Title>
+					<Title name="SD" ID="obj5173368">
+						<Edition name="01" />
+						<Edition name="02" />
+						<Edition name="Wrap (01)" />
+						<Edition name="Mainbody (01)" />
+						<Edition name="Posters (01)" />
+						<Edition name="Weekender (01)" />
+					</Title>
+					<Title name="HR" ID="obj5189802">
+						<Edition name="01" />
+						<Edition name="02" />
+						<Edition name="03" />
+						<Edition name="Mainbody (01)" />
+						<Edition name="Racing (01)" />
+						<Edition name="01bg2402 BUDGET SUPP (01)" />
+						<Edition name="01sup1203 IRON MAN (01)" />
+						<Edition name="01wwe0703 (01)" />
+						<Edition name="LaFemme (01)" />
+						<Edition name="01ten1604 (01)" />
+						<Edition name="01tens2704 tens 2003 (01)" />
+						<Edition name="01sup2303 Splash (01)" />
+						<Edition name="Mainbody (03)" />
+						<Edition name="01ten1704 1995 (01)" />
+						<Edition name="Wrap (01)" />
+						<Edition name="Surveys (02)" />
+						<Edition name="TGIF (01)" />
+						<Edition name="Surveys (01)" />
+						<Edition name="01bee2510 (01)" />
+						<Edition name="POSTERS (01)" />
+						<Edition name="EP Herald 1847" />
+						<Edition name="Matricsupplment (01)" />
+						<Edition name="Mainbody (02)" />
+						<Edition name="Motoring (01)" />
+						<Edition name="pr011703 Iron Man (01)" />
+						<Edition name="01Matric2912 Matric Results (01)" />
+						<Edition name="Shibobo (01)" />
+						<Edition name="None" />
+					</Title>
+					<Title name="WP" ID="obj5204493">
+						<Edition name="01" />
+						<Edition name="02" />
+						<Edition name="03" />
+						<Edition name="04" />
+						<Edition name="Neighbourhood (01)" />
+						<Edition name="Wrap (01)" />
+						<Edition name="Mainbody (04)" />
+						<Edition name="Mainbody (02)" />
+						<Edition name="Auto Body (01)" />
+						<Edition name="Property (01)" />
+						<Edition name="Posters (01)" />
+						<Edition name="SwitchOn (01)" />
+						<Edition name="Surveys (01)" />
+						<Edition name="Shibobo (01)" />
+						<Edition name="Mainbody (03)" />
+						<Edition name="Shibobo (02)" />
+						<Edition name="Mainbody (01)" />
+						<Edition name="Leisure (01)" />
+						<Edition name="Business (01)" />
+						<Edition name="None" />
+					</Title>
+					<Title name="CN" ID="obj5207004">
+						<Edition name="01" />
+						<Edition name="Algoa Sun (01)" />
+						<Edition name="the representative (01)" />
+						<Edition name="our times (01)" />
+						<Edition name="Go!&Express (01)" />
+						<Edition name="Algoa Sun (04)" />
+						<Edition name="ilizwe (01)" />
+						<Edition name="Surveys (01)" />
+						<Edition name="the representative (02)" />
+						<Edition name="talktown (01)" />
+						<Edition name="Algoa Sun (02)" />
+						<Edition name="themercury (01)" />
+						<Edition name="Surveys (02)" />
+						<Edition name="Go!&Express (02)" />
+					</Title>
+					<Title name="SO" ID="obj9507537">
+						<Edition name="01" />
+						<Edition name="02" />
+						<Edition name="05" />
+						<Edition name="03" />
+						<Edition name="04" />
+						<Edition name="06" />
+						<Edition name="07" />
+						<Edition name="Sunday World (02)" />
+						<Edition name="Matric Results (01)" />
+						<Edition name="Matric Results (02)" />
+						<Edition name="Matric Results (05)" />
+						<Edition name="CSI Edition (01)" />
+						<Edition name="Sowetan (01)" />
+						<Edition name="Timeout (01)" />
+						<Edition name="Matric Results (07)" />
+						<Edition name="Matric Results (03)" />
+						<Edition name="Sowetan (02)" />
+						<Edition name="Matric Results (04)" />
+						<Edition name="Surveys (02)" />
+						<Edition name="Surveys (01)" />
+						<Edition name="Sowetan (03)" />
+						<Edition name="Matric Results (06)" />
+						<Edition name="SMag (01)" />
+					</Title>
+					<Title name="BT" ID="obj15797200">
+						<Edition name="01" />
+						<Edition name="02" />
+					</Title>
+					<Title name="LS" ID="obj15804529">
+						<Edition name="01" />
+					</Title>
+					<Title name="OS" ID="obj16953339">
+						<Edition name="01" />
+					</Title>
+					<Title name="NB" ID="obj18103886"/>
+					<Title name="FM" ID="obj18507257">
+						<Edition name="01" />
+						<Edition name="Investors Monthly (01)" />
+						<Edition name="FM Stats (01)" />
+						<Edition name="AdFocus (01)" />
+						<Edition name="Investors Monthl (01)" />
+						<Edition name="The Little Black Book (01)" />
+						<Edition name="Campus (01)" />
+						<Edition name="Innovations (01)" />
+						<Edition name="Top Companies (01)" />
+						<Edition name="Surveys (default)" />
+						<Edition name="Property Handbook (01)" />
+						<Edition name="Special Survey (01)" />
+						<Edition name="Posters (01)" />
+						<Edition name="Surveys (01)" />
+						<Edition name="CIO Africa (01)" />
+						<Edition name="Travel (01)" />
+						<Edition name="Financial Mail (01)" />
+						<Edition name="Future Company (01)" />
+						<Edition name="Budget (01)" />
+					</Title>
+				</config>
